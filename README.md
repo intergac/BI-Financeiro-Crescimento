@@ -1,4 +1,4 @@
-# 📊 BI-Financeiro-Crescimento
+# 📊 BI-KPI-FinanceUp
 
 > Dashboard de Business Intelligence para análise financeira e estratégia de crescimento empresarial
 
